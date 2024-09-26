@@ -13,5 +13,8 @@
 - PowerBI: Business Intelligence tool for interactive visualizations
 ## Architecture
 ![image](https://github.com/user-attachments/assets/f03ad79f-218b-4926-af2d-06cb4986e675)
+## Databricks Pipeline
+![image](https://github.com/user-attachments/assets/219b618b-8571-42df-a154-cdf5d45a8462)
+
 
 
