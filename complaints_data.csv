@@ -1,0 +1,299 @@
+CustomerId,ComplaintType,ResolutionTime,SatisfactionRating
+Customer_1,Data Connectivity Issues,30,1
+Customer_1,Frequent Call Drops,34,1
+Customer_1,Frequent Call Drops,44,3
+Customer_1,No Signal,31,3
+Customer_2,Billing Issue,26,4
+Customer_2,Slow Internet,45,3
+Customer_3,Frequent Call Drops,7,4
+Customer_4,Data Connectivity Issues,42,2
+Customer_4,No Signal,27,4
+Customer_4,Billing Issue,34,4
+Customer_4,Billing Issue,40,3
+Customer_4,Slow Internet,5,4
+Customer_5,Slow Internet,45,5
+Customer_5,Billing Issue,24,5
+Customer_5,No Signal,40,3
+Customer_5,Slow Internet,8,4
+Customer_5,No Signal,10,3
+Customer_6,Billing Issue,37,3
+Customer_6,Frequent Call Drops,17,2
+Customer_6,Data Connectivity Issues,26,3
+Customer_6,Billing Issue,9,1
+Customer_7,Billing Issue,24,5
+Customer_8,Data Connectivity Issues,41,1
+Customer_8,No Signal,44,1
+Customer_8,Slow Internet,10,2
+Customer_8,Frequent Call Drops,5,3
+Customer_9,No Signal,36,5
+Customer_9,Frequent Call Drops,48,3
+Customer_9,No Signal,32,3
+Customer_10,Billing Issue,41,5
+Customer_10,Data Connectivity Issues,14,4
+Customer_10,Slow Internet,11,2
+Customer_10,Billing Issue,30,1
+Customer_11,Slow Internet,19,5
+Customer_12,No Signal,16,2
+Customer_13,Data Connectivity Issues,33,1
+Customer_14,Billing Issue,44,3
+Customer_14,Billing Issue,6,5
+Customer_15,Data Connectivity Issues,14,2
+Customer_15,Frequent Call Drops,16,1
+Customer_15,No Signal,33,3
+Customer_15,No Signal,11,1
+Customer_16,Data Connectivity Issues,38,2
+Customer_16,Billing Issue,3,1
+Customer_16,Data Connectivity Issues,15,5
+Customer_17,Billing Issue,15,5
+Customer_18,Data Connectivity Issues,43,5
+Customer_18,Frequent Call Drops,27,1
+Customer_18,Frequent Call Drops,9,4
+Customer_18,No Signal,29,1
+Customer_18,Frequent Call Drops,42,1
+Customer_19,Billing Issue,40,3
+Customer_19,Data Connectivity Issues,24,4
+Customer_20,No Signal,7,4
+Customer_20,No Signal,38,4
+Customer_20,Data Connectivity Issues,29,5
+Customer_20,Slow Internet,7,5
+Customer_21,Billing Issue,9,2
+Customer_21,Frequent Call Drops,35,1
+Customer_21,Slow Internet,30,3
+Customer_22,Slow Internet,22,2
+Customer_22,Frequent Call Drops,21,5
+Customer_23,Frequent Call Drops,47,2
+Customer_23,Slow Internet,1,4
+Customer_23,Billing Issue,36,1
+Customer_23,No Signal,2,2
+Customer_24,No Signal,34,3
+Customer_24,Slow Internet,45,5
+Customer_25,Frequent Call Drops,24,4
+Customer_25,Data Connectivity Issues,33,4
+Customer_25,Frequent Call Drops,46,4
+Customer_25,Frequent Call Drops,31,4
+Customer_25,No Signal,42,5
+Customer_26,Data Connectivity Issues,23,1
+Customer_26,Data Connectivity Issues,22,3
+Customer_26,Frequent Call Drops,13,2
+Customer_26,Slow Internet,22,5
+Customer_27,Data Connectivity Issues,26,4
+Customer_28,No Signal,37,4
+Customer_28,Frequent Call Drops,22,5
+Customer_29,Data Connectivity Issues,4,2
+Customer_29,Slow Internet,38,2
+Customer_30,Billing Issue,11,2
+Customer_30,Slow Internet,30,3
+Customer_30,No Signal,25,2
+Customer_31,No Signal,26,4
+Customer_31,Data Connectivity Issues,31,1
+Customer_32,Billing Issue,33,1
+Customer_32,Billing Issue,41,1
+Customer_32,No Signal,33,5
+Customer_32,Billing Issue,45,2
+Customer_32,No Signal,3,3
+Customer_33,Frequent Call Drops,28,1
+Customer_33,Data Connectivity Issues,26,3
+Customer_34,Frequent Call Drops,13,4
+Customer_35,Frequent Call Drops,37,5
+Customer_35,Slow Internet,37,1
+Customer_35,Frequent Call Drops,13,4
+Customer_35,Slow Internet,47,4
+Customer_35,Frequent Call Drops,24,4
+Customer_36,Data Connectivity Issues,10,1
+Customer_37,Billing Issue,13,4
+Customer_37,Frequent Call Drops,38,4
+Customer_37,No Signal,46,3
+Customer_38,Slow Internet,2,5
+Customer_38,Data Connectivity Issues,9,5
+Customer_39,No Signal,9,4
+Customer_39,Data Connectivity Issues,26,1
+Customer_39,No Signal,22,2
+Customer_39,Frequent Call Drops,8,5
+Customer_39,Data Connectivity Issues,33,5
+Customer_40,Billing Issue,41,4
+Customer_40,No Signal,11,5
+Customer_40,Billing Issue,47,3
+Customer_40,Data Connectivity Issues,30,4
+Customer_40,Slow Internet,30,4
+Customer_41,Billing Issue,13,3
+Customer_41,Slow Internet,23,4
+Customer_41,Slow Internet,24,1
+Customer_41,Slow Internet,5,3
+Customer_41,No Signal,15,4
+Customer_42,No Signal,29,2
+Customer_42,Slow Internet,8,3
+Customer_43,Billing Issue,1,2
+Customer_43,Billing Issue,19,3
+Customer_43,Data Connectivity Issues,37,5
+Customer_43,Billing Issue,39,5
+Customer_43,Slow Internet,25,5
+Customer_44,No Signal,26,1
+Customer_44,Frequent Call Drops,3,3
+Customer_44,Slow Internet,39,2
+Customer_44,Data Connectivity Issues,29,3
+Customer_44,No Signal,1,3
+Customer_45,Frequent Call Drops,11,5
+Customer_45,Data Connectivity Issues,46,2
+Customer_45,Billing Issue,7,2
+Customer_45,Slow Internet,4,3
+Customer_46,Billing Issue,45,1
+Customer_46,Data Connectivity Issues,38,5
+Customer_47,Billing Issue,42,2
+Customer_47,Slow Internet,16,4
+Customer_47,No Signal,35,1
+Customer_47,No Signal,15,2
+Customer_48,Data Connectivity Issues,28,5
+Customer_48,Data Connectivity Issues,1,2
+Customer_48,No Signal,27,4
+Customer_49,Slow Internet,39,2
+Customer_50,No Signal,11,4
+Customer_51,Slow Internet,19,1
+Customer_51,No Signal,25,3
+Customer_51,Slow Internet,5,1
+Customer_51,Slow Internet,46,2
+Customer_51,Slow Internet,43,5
+Customer_52,Frequent Call Drops,36,1
+Customer_52,Slow Internet,31,1
+Customer_52,Slow Internet,18,4
+Customer_53,No Signal,32,5
+Customer_53,Frequent Call Drops,31,1
+Customer_54,Billing Issue,19,3
+Customer_54,Data Connectivity Issues,46,3
+Customer_54,No Signal,3,2
+Customer_54,Billing Issue,32,3
+Customer_54,No Signal,29,5
+Customer_55,No Signal,22,4
+Customer_55,Slow Internet,22,2
+Customer_56,Frequent Call Drops,39,3
+Customer_56,No Signal,8,4
+Customer_57,No Signal,40,1
+Customer_58,Data Connectivity Issues,40,5
+Customer_58,Slow Internet,11,4
+Customer_59,Frequent Call Drops,10,4
+Customer_59,Data Connectivity Issues,35,5
+Customer_59,Data Connectivity Issues,42,3
+Customer_59,No Signal,23,3
+Customer_59,Slow Internet,46,3
+Customer_60,Slow Internet,16,5
+Customer_60,Slow Internet,27,3
+Customer_60,Slow Internet,29,4
+Customer_60,Billing Issue,21,5
+Customer_61,No Signal,7,5
+Customer_61,No Signal,48,4
+Customer_61,No Signal,31,3
+Customer_62,Data Connectivity Issues,25,3
+Customer_62,No Signal,32,5
+Customer_63,No Signal,24,3
+Customer_63,Data Connectivity Issues,7,3
+Customer_64,No Signal,41,5
+Customer_64,Data Connectivity Issues,1,5
+Customer_64,Slow Internet,18,5
+Customer_64,No Signal,33,4
+Customer_65,No Signal,42,3
+Customer_65,No Signal,32,1
+Customer_65,Billing Issue,16,2
+Customer_65,No Signal,25,4
+Customer_66,Frequent Call Drops,5,4
+Customer_66,No Signal,43,4
+Customer_66,Data Connectivity Issues,42,3
+Customer_66,Data Connectivity Issues,19,1
+Customer_67,Frequent Call Drops,28,2
+Customer_67,Data Connectivity Issues,29,4
+Customer_68,Billing Issue,20,5
+Customer_68,Slow Internet,25,3
+Customer_68,Frequent Call Drops,41,2
+Customer_68,Slow Internet,34,5
+Customer_68,Billing Issue,40,2
+Customer_69,Billing Issue,44,3
+Customer_69,Slow Internet,48,4
+Customer_69,No Signal,40,2
+Customer_70,Data Connectivity Issues,10,4
+Customer_70,Slow Internet,22,2
+Customer_70,No Signal,20,5
+Customer_71,Data Connectivity Issues,20,5
+Customer_71,Billing Issue,31,4
+Customer_71,Frequent Call Drops,24,1
+Customer_72,Slow Internet,35,4
+Customer_72,Billing Issue,16,1
+Customer_72,Slow Internet,28,3
+Customer_72,No Signal,7,4
+Customer_72,Frequent Call Drops,9,4
+Customer_73,Slow Internet,28,3
+Customer_73,No Signal,45,5
+Customer_74,Frequent Call Drops,19,5
+Customer_75,No Signal,26,3
+Customer_75,Frequent Call Drops,16,3
+Customer_75,Data Connectivity Issues,30,2
+Customer_76,Slow Internet,3,2
+Customer_76,Slow Internet,10,4
+Customer_76,Data Connectivity Issues,32,4
+Customer_77,Frequent Call Drops,34,5
+Customer_77,Data Connectivity Issues,48,2
+Customer_77,Data Connectivity Issues,20,1
+Customer_77,No Signal,46,1
+Customer_78,Data Connectivity Issues,39,4
+Customer_78,Slow Internet,22,4
+Customer_78,Slow Internet,24,3
+Customer_78,Data Connectivity Issues,3,1
+Customer_78,Frequent Call Drops,22,4
+Customer_79,Frequent Call Drops,26,2
+Customer_79,Frequent Call Drops,42,4
+Customer_79,No Signal,12,1
+Customer_80,No Signal,28,2
+Customer_80,Slow Internet,12,4
+Customer_80,Frequent Call Drops,46,4
+Customer_80,Data Connectivity Issues,45,4
+Customer_81,Billing Issue,42,3
+Customer_82,Slow Internet,42,4
+Customer_83,Data Connectivity Issues,1,1
+Customer_84,No Signal,27,3
+Customer_84,No Signal,44,2
+Customer_84,Frequent Call Drops,6,5
+Customer_85,Slow Internet,8,5
+Customer_85,Slow Internet,19,1
+Customer_86,No Signal,1,5
+Customer_86,Data Connectivity Issues,31,5
+Customer_86,No Signal,44,5
+Customer_86,Frequent Call Drops,40,3
+Customer_86,Billing Issue,45,5
+Customer_87,Slow Internet,34,5
+Customer_87,Billing Issue,44,3
+Customer_88,No Signal,13,1
+Customer_88,No Signal,19,2
+Customer_88,Billing Issue,13,2
+Customer_88,Billing Issue,22,1
+Customer_89,No Signal,36,2
+Customer_89,Frequent Call Drops,25,2
+Customer_90,Slow Internet,1,2
+Customer_90,No Signal,2,1
+Customer_90,Frequent Call Drops,39,1
+Customer_90,Data Connectivity Issues,28,2
+Customer_90,Data Connectivity Issues,42,3
+Customer_91,Data Connectivity Issues,25,2
+Customer_92,Billing Issue,22,2
+Customer_92,Frequent Call Drops,2,5
+Customer_92,Data Connectivity Issues,24,2
+Customer_93,Frequent Call Drops,39,3
+Customer_93,Data Connectivity Issues,41,3
+Customer_93,Slow Internet,42,1
+Customer_93,Slow Internet,31,5
+Customer_94,Billing Issue,24,3
+Customer_94,No Signal,42,4
+Customer_94,Slow Internet,33,3
+Customer_94,Slow Internet,31,4
+Customer_94,No Signal,21,1
+Customer_95,No Signal,45,4
+Customer_96,No Signal,1,4
+Customer_96,Data Connectivity Issues,44,3
+Customer_96,Data Connectivity Issues,10,2
+Customer_97,Frequent Call Drops,16,5
+Customer_97,Frequent Call Drops,32,1
+Customer_98,No Signal,13,1
+Customer_98,No Signal,37,5
+Customer_99,No Signal,17,2
+Customer_99,Slow Internet,31,3
+Customer_99,Billing Issue,33,5
+Customer_99,Frequent Call Drops,33,5
+Customer_99,Billing Issue,25,5
+Customer_100,Data Connectivity Issues,45,3
+Customer_100,Frequent Call Drops,14,3
